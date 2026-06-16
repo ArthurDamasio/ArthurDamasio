@@ -1,16 +1,17 @@
-<!-- ===================== HEADER - gradiente ciano → roxo → rosa ===================== -->
+<!-- ===================== BANNER / HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BE9FD,50:BD93F9,100:FF79C6&height=200&section=header&text=Arthur+Damasio&fontColor=F8F8F2&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Strategic+AI+%26+Data+Architect&descAlignY=60&descSize=18&descColor=F8F8F2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Arthur+Damasio&fontColor=bd93f9&fontSize=60&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG - alterna entre ciano, roxo e rosa -->
+<!-- Typing SVG -->
 <a href="https://github.com/ArthurDamasio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=Strategic+AI+%26+Data+Architect+%F0%9F%A7%A0;GenAI+em+produ%C3%A7%C3%A3o+na+AWS+%E2%98%81%EF%B8%8F;Amazon+Bedrock+%7C+Agentes+%7C+MCP+Servers;%7E+R%24+350k%2Fano+de+redu%C3%A7%C3%A3o+de+custo+AWS+%F0%9F%9A%80;AWS+Certified+AI+Practitioner+%E2%9C%85;AI+Advisor+%7C+YouTube+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=700&lines=Strategic+AI+%26+Data+Architect+%F0%9F%A7%A0;GenAI+em+produ%C3%A7%C3%A3o+na+AWS+%E2%98%81%EF%B8%8F;Amazon+Bedrock+%7C+Agentes+%7C+MCP+Servers;%7E+R%24+350k%2Fano+de+redu%C3%A7%C3%A3o+de+custo+AWS+%F0%9F%9A%80;AWS+Certified+AI+Practitioner+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArthurDamasio&label=Visitas&color=8BE9FD&style=flat-square" alt="profile views" />
+<!-- Contador de visitas -->
+<img src="https://komarev.com/ghpvc/?username=ArthurDamasio&label=Visitas&color=bd93f9&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -29,21 +30,6 @@
 - 📹 Conteúdo sobre IA no YouTube — em português, para técnicos e negócio
 - 🤝 AI Advisor para empresas que querem IA generativa de verdade em produção
 - ✅ **AWS Certified AI Practitioner (AIP-C01)**
-
-<br/>
-
-<!-- ===================== APOIE ===================== -->
-## ☕ Apoie meu trabalho
-
-<div align="center">
-
-<a href="https://ko-fi.com/SEU_KOFI">
-  <img src="https://img.shields.io/badge/Ko--fi-Pagar_um_Caf%C3%A9-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/PIX-Chave%3A_SUA__CHAVE_PIX-00B4D8?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" />
-
-</div>
 
 <br/>
 
@@ -83,48 +69,37 @@
 
 <div align="center">
 
-<!-- Card principal: título rosa, ícones ciano -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDamasio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282A36&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&border_radius=10" />
-<!-- Linguagens: título verde, ícones laranja -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDamasio&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=50FA7B&text_color=F8F8F2&langs_count=8&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDamasio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDamasio&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&langs_count=8" />
 
 <br/><br/>
 
-<!-- Streak: anel verde, chama vermelha, label ciano -->
-<img src="https://streak-stats.demolab.com?user=ArthurDamasio&theme=dracula&hide_border=true&background=282A36&ring=50FA7B&fire=FF5555&currStreakLabel=8BE9FD&sideLabels=BD93F9&dates=6272A4&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=ArthurDamasio&theme=dracula&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" />
 
 </div>
 
 <br/>
 
 <!-- ===================== TROFÉUS ===================== -->
-## 🏆 Conquistas
+## 🏆 Troféus
 
 <div align="center">
-
-<!-- Linha 1: troféus principais -->
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurDamasio&theme=dracula&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&rank=SECRET,SSS,SS,S" />
-
-<br/>
-
-<!-- Linha 2: troféus secundários -->
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurDamasio&theme=dracula&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&rank=AAA,AA,A,B" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ArthurDamasio&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 <br/>
 
-<!-- ===================== CONTRIBUIÇÕES 3D ===================== -->
-## 🗓️ Contribuições 3D
+<!-- ===================== GRÁFICO DE ATIVIDADE ===================== -->
+## 📈 Atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArthurDamasio/ArthurDamasio/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurDamasio&theme=dracula&bg_color=282A36&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&hide_border=true" />
 </div>
 
 <br/>
 
 <!-- ===================== COBRINHA 🐍 ===================== -->
-## 🐍 Gráfico de Contribuições
+## 🐍 Contribuições
 
 <div align="center">
   <picture>
@@ -135,14 +110,6 @@
 
 <br/>
 
-<!-- ===================== WAKATIME / DEV STATS ===================== -->
-## ⏱️ Dev Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
 <!-- ===================== REDES SOCIAIS ===================== -->
 ## 🌐 Me encontre
 
@@ -150,13 +117,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/arthurdamasio)
 [![YouTube](https://img.shields.io/badge/YouTube-282A36?style=for-the-badge&logo=youtube&logoColor=FF5555)](https://youtube.com/@arthurdamasio)
-[![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=8BE9FD)](https://github.com/ArthurDamasio)
+[![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=bd93f9)](https://github.com/ArthurDamasio)
 
 </div>
 
 <br/>
 
-<!-- ===================== RODAPÉ - gradiente rosa → roxo → verde ===================== -->
+<!-- ===================== RODAPÉ ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF79C6,50:BD93F9,100:50FA7B&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </div>
